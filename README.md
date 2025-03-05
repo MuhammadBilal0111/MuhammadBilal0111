@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Muhammad+Bilal;Web+Developer" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="mailto:m.bilal0111@gmail.com">
