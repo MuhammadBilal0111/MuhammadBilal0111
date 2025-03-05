@@ -1,4 +1,16 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Muhammad+Bilal;Web+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:m.bilal0111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-m.bilal0111@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-bilal">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Bilal-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DC143C&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Bilal" alt="Typing SVG" />
 </p>
 
