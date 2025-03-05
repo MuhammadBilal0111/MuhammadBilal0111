@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 1200 200" fill="none">
+  <!-- Background -->
+  <rect width="1200" height="200" fill="#0D1117"/>
+
+  <!-- Name -->
+  <text x="50" y="80" font-family="Arial, sans-serif" font-size="40" fill="#FFFFFF" font-weight="bold">ESSA AHMED</text>
+
+  <!-- Role -->
+  <text x="50" y="120" font-family="Arial, sans-serif" font-size="30" fill="#58A6FF">WEB DEVELOPER</text>
+
+  <!-- Cloud Computing -->
+  <text x="50" y="160" font-family="Arial, sans-serif" font-size="20" fill="#8B949E">CLOUD COMPUTING</text>
+
+  <!-- Contact Information -->
+  <text x="800" y="50" font-family="Arial, sans-serif" font-size="16" fill="#8B949E" text-anchor="end">essaahmedsiddiqui@gmail.com</text>
+  <text x="800" y="80" font-family="Arial, sans-serif" font-size="16" fill="#8B949E" text-anchor="end">essa-ahmed</text>
+</svg>
