@@ -1,4 +1,6 @@
-![Banner](./banner.svg)
+<p align="center">
+  ![Banner](./banner.svg)
+</p>
 
 <p align="center">
   <a href="mailto:m.bilal0111@gmail.com">
