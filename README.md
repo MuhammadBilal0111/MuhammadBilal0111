@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
 
 <p align="center">
   <a href="mailto:m.bilal0111@gmail.com">
@@ -9,6 +6,9 @@
   <a href="https://linkedin.com/in/muhammad-bilal-9b6830273/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Bilal-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+</p>
+<p align="center">
+  <img src="banner.png" alt="Banner" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DC143C&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Bilal" alt="Typing SVG" />
