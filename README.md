@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="mailto:m.bilal0111@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.bilal0111@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-m.bilal0111@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/muhammad-bilal-9b6830273/">
