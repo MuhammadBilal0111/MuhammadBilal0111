@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
 
 <p align="center">
   <a href="mailto:m.bilal0111@gmail.com">
