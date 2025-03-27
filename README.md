@@ -14,7 +14,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DC143C&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Bilal" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Full Stack Web Developer</h1>
+<h3 align="center">Domains: MERN Stack, Next.js, and Decentralized Application (DApp) Development</h3>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/muhammad-bilal-9b6830273) 
