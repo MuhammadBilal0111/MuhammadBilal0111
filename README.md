@@ -79,12 +79,6 @@
 
 ---
 
-<div align="center">
-  
-### 🌟 Visitor Count  
-[![](https://visitcount.itsvg.in/api?id=MuhammadBilal0111&icon=0&color=2)](https://visitcount.itsvg.in)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
