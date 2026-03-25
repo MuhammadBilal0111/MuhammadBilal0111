@@ -1,87 +1,93 @@
+# Howdy!
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.bilal0111@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-m.bilal0111@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/muhammad-bilal-9b6830273/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Bilal-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DC143C&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Bilal" alt="Typing SVG" />
-</p>
+I’m Bilal, a Software Engineer, a Full Stack Engineer based in Karachi, Pakistan. I started out tinkering with web pages, got obsessed with how the backend talks to the frontend, and never really stopped connecting things — databases, APIs, microservices, smart contracts, ideas.
 
-<h1 align="center">Full Stack Web Developer</h1>
-<h3 align="center">Domains: MERN Stack, Next.js, and Decentralized Application (DApp) Development</h3>
+My personal mission: *Make the web faster, smarter, and more open — one commit at a time.*
 
 ---
 
-## 💻 Tech Stack:
-<div align="center">
-  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+## What I believe
 
-</div>
+- **Build it first** — a working prototype beats a perfect plan. Get something running, then make it better.
+- **Architecture matters** — writing code is easy; designing systems that scale without breaking is the real craft.
+- **Open source is trust** — put your work out there, take feedback seriously, and keep iterating.
+- **Go deeper, not just wider** — knowing *why* something works makes you dangerous in the best way.
+- **Stay curious** — Web3, AI, distributed systems, .NET — there's always something new worth learning.
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
+## What I've worked on
 
-![](https://github-readme-stats.vercel.app/api?username=MuhammadBilal0111&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+I've spent my time at the intersection of full stack development and emerging technologies, trying to build things that are both functional and meaningful.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal0111&theme=dark&hide_border=false)
+**[FundFlow](https://github.com/MuhammadBilal0111)** — A decentralized crowdfunding platform where startups raise funds with 100% on-chain transparency. Built with Next.js, Solidity smart contracts on the Sepolia testnet, and MetaMask wallet integration. Clerk handles role-based auth, Cloudinary manages uploads, and Sentry keeps watch in production. My first serious dive into Web3 — and it got me hooked.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal0111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**[ATS Resume & Cover Letter Builder](https://github.com/MuhammadBilal0111)** — An AI-powered platform built on a full microservices architecture using NestJS and TypeScript. RabbitMQ handles async workflows, an API Gateway secures service-to-service communication with JWT, and Gemini AI generates intelligent, personalized content. Services are containerized with Docker and orchestrated via Docker Compose. The kind of project that taught me what "production-ready" actually means.
 
-</div>
+**[GreenScape](https://github.com/MuhammadBilal0111)** — A full-stack on-demand outdoor services platform connecting homeowners with landscaping professionals. Users can browse services, schedule appointments, track bookings in real time, and leave reviews — all from one place. Built with the MERN stack, Socket.io for live order updates, and JWT for secure auth. The kind of app where every feature you add reveals three more you hadn't thought of.
 
----
-
-
-## ✍️ Random Dev Quote:
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
+**[Bali's Blog](https://github.com/MuhammadBilal0111)** — A full-featured blogging platform with CRUD, an admin dashboard, Google OAuth, Firebase image uploads, real-time comment editing, and light/dark mode. Built with React, Redux, Node.js, Express, and MongoDB. The project I always recommend to anyone learning the MERN stack — it touches everything.
 
 ---
 
-## 🔝 Top Contributed Repo:
-<div align="center">
+## What I work with
 
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadBilal0111&limit=5&theme=dark&combine_all_yearly_contributions=true)
+On the frontend: **React**, **Next.js**, **Redux**, **TailwindCSS**, **ShadCN**, **Material UI**.
 
-</div>
+On the backend: **Node.js**, **Express**, **NestJS** — and increasingly **.NET**, which I'm actively learning.
+
+For data: **MongoDB**, **PostgreSQL**, **MySQL**. I care about more than just getting queries to run — I think about schema design, indexing strategies, query optimization, and how your data model shapes everything downstream.
+
+For infrastructure and tooling: **Docker**, **RabbitMQ**, **Git**, **Postman**.
+
+For Web3: **Solidity**, **Hardhat**, **Ethers.js**.
+
+Languages I think in: **JavaScript**, **TypeScript**. Languages I reach for when needed: **Python**, **C++**.
+
+## Core Fundamentals
+
+Beyond syntax and frameworks, I have a strong foundation in the core concepts that help software scale and remain maintainable:
+
+- **Data Structures**
+- **Object-Oriented Programming (OOP)**
+- **System Design**
+- **Distributed Systems**
+- **Database Architecture**
+- **Design Patterns**
+
+These fundamentals are essential when systems evolve, requirements change, and traffic scales unexpectedly.
 
 ---
 
+## Achievements
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**1st Place — Full Stack Frenzy @ Teknofest Pakistan (2024):** Led backend development with Node.js for Team BroCode, taking first prize at one of Pakistan's biggest tech competitions.
+
+**Best Execution Award — Build4Better Hackathon:** Delivered a complete, polished solution with Team Phonolytics, recognized for execution, teamwork, and innovation.
+
+---
+
+## Education
+
+**B.E Software Engineering** — NED University of Engineering and Technology, Karachi (2022–2026)
+CGPA: 3.6/4.0
+
+Certifications: *Databases and SQL for Data Science with Python* and *Supervised Machine Learning: Regression and Classification* — both via Coursera.
+
+---
+
+## Say hi 👋
+
+- 💼 [LinkedIn](https://linkedin.com/in/muhammad-bilal-9b6830273)
+- 🌐 [Portfolio](https://muhammad-bilal.me)
+- ✍️ [Medium](https://medium.com/@m.bilal0111)
+- 🐦 [@MBilal0111](https://x.com/MBilal0111)
+- 🐙 [GitHub](https://github.com/MuhammadBilal0111)
+- 📬 [m.bilal0111@gmail.com](mailto:m.bilal0111@gmail.com)
+
+Or open an issue on any of my repos — I read everything.
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadBilal0111/MuhammadBilal0111/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadBilal0111/MuhammadBilal0111/output/github-snake.svg" />
