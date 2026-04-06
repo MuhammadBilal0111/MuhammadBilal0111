@@ -20,13 +20,13 @@ My personal mission: *Make the web faster, smarter, and more open — one commit
 
 I've spent my time at the intersection of full stack development and emerging technologies, trying to build things that are both functional and meaningful.
 
-**[FundFlow](https://github.com/MuhammadBilal0111)** — A decentralized crowdfunding platform where startups raise funds with 100% on-chain transparency. Built with Next.js, Solidity smart contracts on the Sepolia testnet, and MetaMask wallet integration. Clerk handles role-based auth, Cloudinary manages uploads, and Sentry keeps watch in production. My first serious dive into Web3 — and it got me hooked.
+**[FundFlow](https://github.com/MuhammadBilal0111/FundFlow)** — A decentralized crowdfunding platform where startups raise funds with 100% on-chain transparency. Built with Next.js, Solidity smart contracts on the Sepolia testnet, and MetaMask wallet integration. Clerk handles role-based auth, Cloudinary manages uploads, and Sentry keeps watch in production. My first serious dive into Web3 — and it got me hooked.
 
-**[ATS Resume & Cover Letter Builder](https://github.com/MuhammadBilal0111)** — An AI-powered platform built on a full microservices architecture using NestJS and TypeScript. RabbitMQ handles async workflows, an API Gateway secures service-to-service communication with JWT, and Gemini AI generates intelligent, personalized content. Services are containerized with Docker and orchestrated via Docker Compose. The kind of project that taught me what "production-ready" actually means.
+**[ATS Resume & Cover Letter Builder (Backend)](https://github.com/MuhammadBilal0111/ATS-friendly-Resume-CoverLetter-Builder-using-microservices)** — An AI-powered platform built on a full microservices architecture using NestJS and TypeScript. RabbitMQ handles async workflows, an API Gateway secures service-to-service communication with JWT, and Gemini AI generates intelligent, personalized content. Services are containerized with Docker and orchestrated via Docker Compose. The kind of project that taught me what "production-ready" actually means.
 
 **[GreenScape](https://github.com/MuhammadBilal0111)** — A full-stack on-demand outdoor services platform connecting homeowners with landscaping professionals. Users can browse services, schedule appointments, track bookings in real time, and leave reviews — all from one place. Built with the MERN stack, Socket.io for live order updates, and JWT for secure auth. The kind of app where every feature you add reveals three more you hadn't thought of.
 
-**[Bali's Blog](https://github.com/MuhammadBilal0111)** — A full-featured blogging platform with CRUD, an admin dashboard, Google OAuth, Firebase image uploads, real-time comment editing, and light/dark mode. Built with React, Redux, Node.js, Express, and MongoDB. The project I always recommend to anyone learning the MERN stack — it touches everything.
+**[Bali's Blog](https://github.com/MuhammadBilal0111/Bali-s-blog)** — A full-featured blogging platform with CRUD, an admin dashboard, Google OAuth, Firebase image uploads, real-time comment editing, and light/dark mode. Built with React, Redux, Node.js, Express, and MongoDB. The project I always recommend to anyone learning the MERN stack — it touches everything.
 
 ---
 
