@@ -79,7 +79,7 @@ Certifications: *Databases and SQL for Data Science with Python* and *Supervised
 ## Say hi 👋
 
 - 💼 [LinkedIn](https://linkedin.com/in/muhammad-bilal-9b6830273)
-- 🌐 [Portfolio](https://muhammad-bilal.me)
+- 🌐 [Portfolio](https://muhammad-bilal-nu.vercel.app)
 - ✍️ [Medium](https://medium.com/@m.bilal0111)
 - 🐦 [@MBilal0111](https://x.com/MBilal0111)
 - 🐙 [GitHub](https://github.com/MuhammadBilal0111)
