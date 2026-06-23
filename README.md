@@ -12,7 +12,7 @@ My personal mission: *Make the web faster, smarter, and more open — one commit
 - **Architecture matters** — writing code is easy; designing systems that scale without breaking is the real craft.
 - **Open source is trust** — put your work out there, take feedback seriously, and keep iterating.
 - **Go deeper, not just wider** — knowing *why* something works makes you dangerous in the best way.
-- **Stay curious** — Web3, AI, distributed systems, .NET — there's always something new worth learning.
+- **Stay curious** — Web3, AI, distributed systems, Java, Spring, Spring Boot — there's always something new worth learning.
 
 ---
 
