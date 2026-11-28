@@ -2,7 +2,23 @@
 
 I’m Bilal, a Software Engineer, a Full Stack Engineer based in Karachi, Pakistan. I started out tinkering with web pages, got obsessed with how the backend talks to the frontend, and never really stopped connecting things — databases, APIs, microservices, smart contracts, ideas.
 
+These days I ship production software daily with **AI coding agents**, and I care a lot about the parts that are easy to get wrong: query performance, audit trails, security, and what happens in production after deploy.
+
 My personal mission: *Make the web faster, smarter, and more open — one commit at a time.*
+
+---
+
+## What I'm doing now
+
+**Junior Software Developer @ [Expertise Accelerated](https://expertiseaccelerated.com/)** (June 2026 – Present)
+
+- Took an **employee time-tracking platform** from requirements to production as the sole engineer: Nest.js + PostgreSQL services, a Next.js admin/HR portal, and an Electron.js desktop client. It replaced a paid subscription for 50 accountants, saving about **$400/month**.
+- Redesigned the time-entries API from one unbounded response to **keyset (cursor) pagination** with server-side filtering.
+- Cut query execution time by **30–75%** with composite indexes, verified with `EXPLAIN ANALYZE`.
+- Build **audit trails** for HR corrections and contribute to **SOC 2 readiness**: access control, change tracking, and audit documentation.
+- Own CI/CD (GitHub Actions), dev/prod environments, Linux VPS deployment, and production support.
+
+Before that, I interned at the same company (April – June 2026), building AI automation workflows in **n8n** with LLMs, RAG, and AI agents.
 
 ---
 
@@ -10,7 +26,7 @@ My personal mission: *Make the web faster, smarter, and more open — one commit
 
 - **Build it first** — a working prototype beats a perfect plan. Get something running, then make it better.
 - **Architecture matters** — writing code is easy; designing systems that scale without breaking is the real craft.
-- **Open source is trust** — put your work out there, take feedback seriously, and keep iterating.
+- **AI is a tool, not a reviewer.** I use AI agents every day, and I check every change they make before it ships.
 - **Go deeper, not just wider** — knowing *why* something works makes you dangerous in the best way.
 - **Stay curious** — Web3, AI, distributed systems, Java, Spring, Spring Boot — there's always something new worth learning.
 
@@ -18,31 +34,43 @@ My personal mission: *Make the web faster, smarter, and more open — one commit
 
 ## What I've worked on
 
-I've spent my time at the intersection of full stack development and emerging technologies, trying to build things that are both functional and meaningful.
+**[Owol](https://drive.google.com/file/d/1ZbjxjXgOt71_GjDKBYv0IhdiaoNX-C4U/view?usp=sharing)** (Live): An AI-driven food discovery, meal planning, and community platform. I built backend services for a multi-role system including payout workflows, secured with JWT, rate limiting, input validation, and Helmet. Removing N+1 queries cut response times by about 30%.
+*Node.js · Express · Sequelize · MySQL · SQLite · Socket.IO · Swagger*
 
-**[FundFlow](https://github.com/MuhammadBilal0111/FundFlow)** — A decentralized crowdfunding platform where startups raise funds with 100% on-chain transparency. Built with Next.js, Solidity smart contracts on the Sepolia testnet, and MetaMask wallet integration. Clerk handles role-based auth, Cloudinary manages uploads, and Sentry keeps watch in production. My first serious dive into Web3 — and it got me hooked.
+**[Phonolytics](https://github.com/shayan-zaheer/Phonolytics-Frontend)** (Final Year Project, Top 10 at Teknofest Pakistan 2026): A real-time sales call intelligence platform. I built backend APIs, auth, real-time WebSocket communication, and Redis-backed context for low-latency LLM features, plus a custom ML model that scores agent effort and client conviction.
+*FastAPI · WebSockets · Redis · LLMs · Electron.js*
 
-**[ATS Resume & Cover Letter Builder (Backend)](https://github.com/MuhammadBilal0111/ATS-friendly-Resume-CoverLetter-Builder-using-microservices)** — An AI-powered platform built on a full microservices architecture using NestJS and TypeScript. RabbitMQ handles async workflows, an API Gateway secures service-to-service communication with JWT, and Gemini AI generates intelligent, personalized content. Services are containerized with Docker and orchestrated via Docker Compose. The kind of project that taught me what "production-ready" actually means.
+**[ATS Resume & Cover Letter Builder](https://github.com/MuhammadBilal0111/ATS-friendly-Resume-CoverLetter-Builder-using-microservices)**: An AI-powered platform on a full microservices architecture. RabbitMQ handles async workflows, an API Gateway secures service-to-service communication with JWT, and Gemini AI generates tailored content. Everything is containerized with Docker Compose.
+*NestJS · TypeScript · RabbitMQ · PostgreSQL · MongoDB · Docker*
 
-**[GreenScape](https://github.com/MuhammadBilal0111)** — A full-stack on-demand outdoor services platform connecting homeowners with landscaping professionals. Users can browse services, schedule appointments, track bookings in real time, and leave reviews — all from one place. Built with the MERN stack, Socket.io for live order updates, and JWT for secure auth. The kind of app where every feature you add reveals three more you hadn't thought of.
+**[Employee Management System](https://github.com/MuhammadBilal0111/Employees-Management-System-Spring-Boot/)** (In progress): A RESTful backend for employees, departments, attendance, and leave, built with a layered Controller–Service–Repository design and SOLID principles.
+*Java · Spring Boot · Spring Data JPA · MySQL · Maven*
 
-**[Bali's Blog](https://github.com/MuhammadBilal0111/Bali-s-blog)** — A full-featured blogging platform with CRUD, an admin dashboard, Google OAuth, Firebase image uploads, real-time comment editing, and light/dark mode. Built with React, Redux, Node.js, Express, and MongoDB. The project I always recommend to anyone learning the MERN stack — it touches everything.
+**[FundFlow](https://github.com/MuhammadBilal0111/FundFlow)**: A decentralized crowdfunding platform with fully on-chain transparency, built with Next.js, Solidity smart contracts on Sepolia, and MetaMask integration. My first serious dive into Web3.
+*Next.js · Solidity · Hardhat · Ethers.js · Clerk · Sentry*
+
+**[GreenScape](https://github.com/MuhammadBilal0111)**: An on-demand outdoor services platform connecting homeowners with landscaping professionals, with real-time booking updates over Socket.IO.
+*MERN · Socket.IO · JWT*
 
 ---
 
 ## What I work with
 
-On the frontend: **React**, **Next.js**, **Redux**, **TailwindCSS**, **ShadCN**, **Material UI**.
+**Backend:** Nest.js, Node.js, Express, Spring Boot, Spring Data JPA, FastAPI, REST APIs, Microservices, RabbitMQ
 
-On the backend: **Node.js**, **Express**, **NestJS** — and increasingly **.NET**, which I'm actively learning.
+**Frontend & clients:** Next.js, React, Electron.js, Redux, TailwindCSS, ShadCN
 
-For data: **MongoDB**, **PostgreSQL**, **MySQL**. I care about more than just getting queries to run — I think about schema design, indexing strategies, query optimization, and how your data model shapes everything downstream.
+**Data:** PostgreSQL (indexing, query plans), MySQL, MongoDB, Redis, SQLite
 
-For infrastructure and tooling: **Docker**, **RabbitMQ**, **Git**, **Postman**.
+**DevOps & tooling:** Docker, GitHub Actions, CI/CD, Git, Postman
 
-For Web3: **Solidity**, **Hardhat**, **Ethers.js**.
+**AI:** Claude Code, Cursor, LLM integration, RAG, AI agents, n8n
 
-Languages I think in: **JavaScript**, **TypeScript**. Languages I reach for when needed: **Python**, **C++**.
+**Web3:** Solidity, Hardhat, Ethers.js
+
+**Languages:** TypeScript, JavaScript, Java, SQL, Python, C++
+
+---
 
 ## Core Fundamentals
 
@@ -61,6 +89,8 @@ These fundamentals are essential when systems evolve, requirements change, and t
 
 ## Achievements
 
+**Top 10 Finalist @ Teknofest Pakistan (2026)** for Phonolytics, our final year project.
+
 **1st Place — Full Stack Frenzy @ Teknofest Pakistan (2024):** Led backend development with Node.js for Team BroCode, taking first prize at one of Pakistan's biggest tech competitions.
 
 **Best Execution Award — Build4Better Hackathon:** Delivered a complete, polished solution with Team Phonolytics, recognized for execution, teamwork, and innovation.
@@ -71,8 +101,6 @@ These fundamentals are essential when systems evolve, requirements change, and t
 
 **B.E Software Engineering** — NED University of Engineering and Technology, Karachi (2022–2026)
 CGPA: 3.6/4.0
-
-Certifications: *Databases and SQL for Data Science with Python* and *Supervised Machine Learning: Regression and Classification* — both via Coursera.
 
 ---
 
@@ -85,8 +113,7 @@ Certifications: *Databases and SQL for Data Science with Python* and *Supervised
 - 🐙 [GitHub](https://github.com/MuhammadBilal0111)
 - 📬 [m.bilal0111@gmail.com](mailto:m.bilal0111@gmail.com)
 
-Or open an issue on any of my repos — I read everything.
-
+Open to backend, full stack, and product engineering roles. Or just open an issue on any of my repos, I read everything.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadBilal0111/MuhammadBilal0111/output/github-snake-dark.svg" />
