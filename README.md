@@ -55,17 +55,11 @@ Before that, I interned at the same company (April – June 2026), building AI a
 ## What I work with
 
 **Backend:** Nest.js, Node.js, Express, Spring Boot, Spring Data JPA, FastAPI, REST APIs, Microservices, RabbitMQ
-
 **Frontend & clients:** Next.js, React, Electron.js, Redux, TailwindCSS, ShadCN
-
 **Data:** PostgreSQL (indexing, query plans), MySQL, MongoDB, Redis, SQLite
-
 **DevOps & tooling:** Docker, GitHub Actions, CI/CD, Git, Postman
-
 **AI:** Claude Code, Cursor, LLM integration, RAG, AI agents, n8n
-
 **Web3:** Solidity, Hardhat, Ethers.js
-
 **Languages:** TypeScript, JavaScript, Java, SQL, Python, C++
 
 ---
