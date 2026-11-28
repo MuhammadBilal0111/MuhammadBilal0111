@@ -4,7 +4,6 @@ I’m Bilal, a Software Engineer, a Full Stack Engineer based in Karachi, Pakist
 
 These days I ship production software daily with **AI coding agents**, and I care a lot about the parts that are easy to get wrong: query performance, audit trails, security, and what happens in production after deploy.
 
-The future: AI-powered developers turn every paid software into a free, open-source alternative.
 ---
 
 ## What I'm doing now
